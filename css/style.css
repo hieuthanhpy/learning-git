@@ -11,3 +11,7 @@ ul li {
   padding: 20px 40px;
   background: gold;
 }
+ input{
+   height: 40px;
+   border-radius: 5px;
+ }
